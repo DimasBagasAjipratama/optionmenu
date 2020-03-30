@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">optionmenu</string>
+    <string name="mn1">Menu 1</string>
+    <string name="mn2">Menu 2</string>
+    <string name="mn3">Menu 3</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="hsl">Ini Tampilan Hasil</string>
+    <string name="nm">Nama</string>
+    <string name="almt">Alamat</string>
+    <string name="nohp">No Telepon</string>
+    <string name="rgst">Form Registrasi</string>
+    <string name="dftr">Daftar</string>
+    <string name="hslmenu2">Tampilan Hasil Menu 2</string>
+    <string name="hslmenu3">Tampilan Hasil Menu 3</string>
+</resources>
